@@ -1,6 +1,6 @@
-# Este repositório é o espaço onde desenvolvo códigos na linguagem C. Optei por essa linguagem devido à sua complexidade e à liberdade que ela oferece. Utilizo a linguagem C para aprofundar meus estudos no kernel do Linux e para escrever artigos sobre otimização e a filosofia da codificação desde 2014.
+### Este repositório é o espaço onde desenvolvo códigos na linguagem C. Optei por essa linguagem devido à sua complexidade e à liberdade que ela oferece. Utilizo a linguagem C para aprofundar meus estudos no kernel do Linux e para escrever artigos sobre otimização e a filosofia da codificação desde 2014.
 
-# Sinta-se à vontade para explorar e examinar os códigos em cada pasta. Neles, você encontrará reflexões internas sobre decisões e pensamentos relacionados a algoritmos e estruturas de dados. Portanto, espere não apenas códigos complexos, mas também uma abordagem que incorpora uma pitada de filosofia e pensamento.
+### Sinta-se à vontade para explorar e examinar os códigos em cada pasta. Neles, você encontrará reflexões internas sobre decisões e pensamentos relacionados a algoritmos e estruturas de dados. Portanto, espere não apenas códigos complexos, mas também uma abordagem que incorpora uma pitada de filosofia e pensamento.
 
 
     Arrays:
