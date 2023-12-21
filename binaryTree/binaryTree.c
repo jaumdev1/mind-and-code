@@ -52,7 +52,7 @@ void addTree(struct Tree *tree, int data)
                 struct Node *newNode = malloc(sizeof(struct Node));
                    newNode->data = data;
                 currentNode->RightNode = newNode;
-                  printf("adding node in  right tree %d \n", data);
+                  printf("adding node in right tree %d \n", data);
                 break;
             }
             currentNode = currentNode->RightNode;
@@ -67,7 +67,6 @@ void printTree(struct Node* node){
         printTree(node->LeftNode);
     if(node->RightNode != NULL)
         printTree(node->RightNode);     
-
 } 
 
 
