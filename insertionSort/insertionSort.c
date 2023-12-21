@@ -18,9 +18,9 @@ void insertionSort(int* array, int size) {
 int main() {
     int* array = (int*)calloc(10, sizeof(int));
 
-    int valores[] = {7, 9, 3, 4, 5, 6, 8, 2, 1};
+    int values[] = {7, 9, 3, 4, 5, 6, 8, 2, 1};
     for (int i = 0; i < 10; i++) {
-        array[i] = valores[i];
+        array[i] = values[i];
     }
 
     insertionSort(array, 9);
